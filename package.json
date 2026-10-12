@@ -1,0 +1,12 @@
+{
+  "name": "ezyintern-hrms",
+  "version": "0.1.0",
+  "private": true,
+  "description": "EzyIntern HRMS starter UI and AWS database integration scaffold",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
